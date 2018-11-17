@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsensor_voxel_filter.a  CMakeFiles/sensor_voxel_filter.dir/voxel_filter.cc.o
+/usr/bin/ranlib libsensor_voxel_filter.a

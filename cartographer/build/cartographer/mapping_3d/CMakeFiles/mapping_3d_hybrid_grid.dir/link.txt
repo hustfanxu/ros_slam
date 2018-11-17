@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_3d_hybrid_grid.a  
+/usr/bin/ranlib libmapping_3d_hybrid_grid.a

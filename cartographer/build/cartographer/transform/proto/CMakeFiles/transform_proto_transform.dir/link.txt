@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtransform_proto_transform.a  CMakeFiles/transform_proto_transform.dir/transform.pb.cc.o
+/usr/bin/ranlib libtransform_proto_transform.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_3d_local_trajectory_builder_interface.a  
+/usr/bin/ranlib libmapping_3d_local_trajectory_builder_interface.a

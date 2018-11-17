@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_time.a  CMakeFiles/common_time.dir/time.cc.o
+/usr/bin/ranlib libcommon_time.a

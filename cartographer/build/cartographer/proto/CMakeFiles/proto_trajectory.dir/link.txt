@@ -1,0 +1,2 @@
+/usr/bin/ar qc libproto_trajectory.a  CMakeFiles/proto_trajectory.dir/trajectory.pb.cc.o
+/usr/bin/ranlib libproto_trajectory.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_2d_probability_grid.a  
+/usr/bin/ranlib libmapping_2d_probability_grid.a

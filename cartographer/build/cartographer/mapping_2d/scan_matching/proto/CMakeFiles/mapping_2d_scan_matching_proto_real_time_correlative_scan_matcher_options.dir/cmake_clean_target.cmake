@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libmapping_2d_scan_matching_proto_real_time_correlative_scan_matcher_options.a"
+)

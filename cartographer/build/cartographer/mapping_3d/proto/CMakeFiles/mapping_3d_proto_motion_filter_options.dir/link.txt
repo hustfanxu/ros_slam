@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_3d_proto_motion_filter_options.a  CMakeFiles/mapping_3d_proto_motion_filter_options.dir/motion_filter_options.pb.cc.o
+/usr/bin/ranlib libmapping_3d_proto_motion_filter_options.a

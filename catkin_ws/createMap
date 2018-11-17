@@ -1,0 +1,8 @@
+#! /bin/bash 
+source /opt/ros/kinetic/setup.bash
+source /home/fan/ros_slam/catkin_ws/devel/setup.bash
+sudo chmod a+rw /dev/ttyS0
+sudo chmod a+rw /dev/ttyS1
+sudo chmod a+rw /dev/ttyS2
+#export ROS_MASTER_URI=http://fan-laptop:11311#export ROS_MASTER_URI=http://fan-laptop:11311
+roslaunch gkrobot createMap.launch

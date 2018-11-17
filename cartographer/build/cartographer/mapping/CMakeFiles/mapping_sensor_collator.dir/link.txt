@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_sensor_collator.a  
+/usr/bin/ranlib libmapping_sensor_collator.a

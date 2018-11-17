@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_proto_map_builder_options.a  CMakeFiles/mapping_proto_map_builder_options.dir/map_builder_options.pb.cc.o
+/usr/bin/ranlib libmapping_proto_map_builder_options.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_trajectory_node.a  
+/usr/bin/ranlib libmapping_trajectory_node.a

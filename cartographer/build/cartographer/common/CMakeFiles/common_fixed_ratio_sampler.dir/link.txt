@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_fixed_ratio_sampler.a  CMakeFiles/common_fixed_ratio_sampler.dir/fixed_ratio_sampler.cc.o
+/usr/bin/ranlib libcommon_fixed_ratio_sampler.a

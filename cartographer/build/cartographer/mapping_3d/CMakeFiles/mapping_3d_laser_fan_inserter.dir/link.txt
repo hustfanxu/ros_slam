@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_3d_laser_fan_inserter.a  CMakeFiles/mapping_3d_laser_fan_inserter.dir/laser_fan_inserter.cc.o
+/usr/bin/ranlib libmapping_3d_laser_fan_inserter.a

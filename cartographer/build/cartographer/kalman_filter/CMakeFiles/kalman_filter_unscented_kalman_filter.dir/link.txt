@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkalman_filter_unscented_kalman_filter.a  
+/usr/bin/ranlib libkalman_filter_unscented_kalman_filter.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_3d_motion_filter.a  CMakeFiles/mapping_3d_motion_filter.dir/motion_filter.cc.o
+/usr/bin/ranlib libmapping_3d_motion_filter.a

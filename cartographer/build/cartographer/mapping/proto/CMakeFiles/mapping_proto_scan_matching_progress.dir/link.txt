@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_proto_scan_matching_progress.a  CMakeFiles/mapping_proto_scan_matching_progress.dir/scan_matching_progress.pb.cc.o
+/usr/bin/ranlib libmapping_proto_scan_matching_progress.a

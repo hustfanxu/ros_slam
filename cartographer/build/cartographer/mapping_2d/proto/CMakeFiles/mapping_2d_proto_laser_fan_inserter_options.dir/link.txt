@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_2d_proto_laser_fan_inserter_options.a  CMakeFiles/mapping_2d_proto_laser_fan_inserter_options.dir/laser_fan_inserter_options.pb.cc.o
+/usr/bin/ranlib libmapping_2d_proto_laser_fan_inserter_options.a

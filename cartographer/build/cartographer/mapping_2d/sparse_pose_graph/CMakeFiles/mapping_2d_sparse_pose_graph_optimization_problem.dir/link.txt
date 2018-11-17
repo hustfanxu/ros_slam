@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_2d_sparse_pose_graph_optimization_problem.a  CMakeFiles/mapping_2d_sparse_pose_graph_optimization_problem.dir/optimization_problem.cc.o
+/usr/bin/ranlib libmapping_2d_sparse_pose_graph_optimization_problem.a

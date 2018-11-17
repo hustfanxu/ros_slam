@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_config.a  
+/usr/bin/ranlib libcommon_config.a

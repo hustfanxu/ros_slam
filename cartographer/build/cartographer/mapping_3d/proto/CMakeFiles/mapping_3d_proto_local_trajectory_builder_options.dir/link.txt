@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_3d_proto_local_trajectory_builder_options.a  CMakeFiles/mapping_3d_proto_local_trajectory_builder_options.dir/local_trajectory_builder_options.pb.cc.o
+/usr/bin/ranlib libmapping_3d_proto_local_trajectory_builder_options.a

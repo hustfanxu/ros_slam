@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//cartographer/common/port.h
+cinttypes
+-
+cmath
+-
+string
+-
+boost/iostreams/device/back_inserter.hpp
+-
+boost/iostreams/filter/gzip.hpp
+-
+boost/iostreams/filtering_stream.hpp
+-
+
+..//cartographer/common/time.h
+chrono
+-
+ostream
+-
+ratio
+-
+cartographer/common/port.h
+../cartographer/common/cartographer/common/port.h
+
+/home/fan/ros_slam/cartographer/cartographer/common/time.cc
+cartographer/common/time.h
+/home/fan/ros_slam/cartographer/cartographer/common/cartographer/common/time.h
+string
+-
+

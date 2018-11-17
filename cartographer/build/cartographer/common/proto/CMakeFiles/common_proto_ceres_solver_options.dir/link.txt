@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_proto_ceres_solver_options.a  CMakeFiles/common_proto_ceres_solver_options.dir/ceres_solver_options.pb.cc.o
+/usr/bin/ranlib libcommon_proto_ceres_solver_options.a

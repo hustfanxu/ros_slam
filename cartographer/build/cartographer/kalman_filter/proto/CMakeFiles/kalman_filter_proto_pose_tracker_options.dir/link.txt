@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkalman_filter_proto_pose_tracker_options.a  CMakeFiles/kalman_filter_proto_pose_tracker_options.dir/pose_tracker_options.pb.cc.o
+/usr/bin/ranlib libkalman_filter_proto_pose_tracker_options.a

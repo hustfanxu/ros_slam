@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkalman_filter_odometry_state_tracker.a  CMakeFiles/kalman_filter_odometry_state_tracker.dir/odometry_state_tracker.cc.o
+/usr/bin/ranlib libkalman_filter_odometry_state_tracker.a

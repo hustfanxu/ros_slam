@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_lua_parameter_dictionary_test_helpers.a  
+/usr/bin/ranlib libcommon_lua_parameter_dictionary_test_helpers.a

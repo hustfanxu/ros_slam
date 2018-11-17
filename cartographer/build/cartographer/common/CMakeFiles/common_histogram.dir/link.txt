@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_histogram.a  CMakeFiles/common_histogram.dir/histogram.cc.o
+/usr/bin/ranlib libcommon_histogram.a

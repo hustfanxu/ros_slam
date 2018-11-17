@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtransform_rigid_transform.a  CMakeFiles/transform_rigid_transform.dir/rigid_transform.cc.o
+/usr/bin/ranlib libtransform_rigid_transform.a

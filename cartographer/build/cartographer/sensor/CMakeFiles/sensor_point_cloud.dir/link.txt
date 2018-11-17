@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsensor_point_cloud.a  CMakeFiles/sensor_point_cloud.dir/point_cloud.cc.o
+/usr/bin/ranlib libsensor_point_cloud.a

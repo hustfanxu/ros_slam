@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsensor_laser.a  CMakeFiles/sensor_laser.dir/laser.cc.o
+/usr/bin/ranlib libsensor_laser.a

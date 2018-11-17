@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_mutex.a  
+/usr/bin/ranlib libcommon_mutex.a

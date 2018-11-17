@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_lua_parameter_dictionary.a  CMakeFiles/common_lua_parameter_dictionary.dir/lua_parameter_dictionary.cc.o
+/usr/bin/ranlib libcommon_lua_parameter_dictionary.a

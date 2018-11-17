@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_submaps.a  CMakeFiles/mapping_submaps.dir/submaps.cc.o
+/usr/bin/ranlib libmapping_submaps.a

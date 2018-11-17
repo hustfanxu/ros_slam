@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_blocking_queue.a  
+/usr/bin/ranlib libcommon_blocking_queue.a

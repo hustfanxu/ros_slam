@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//cartographer/common/fixed_ratio_sampler.h
+string
+-
+cartographer/common/port.h
+../cartographer/common/cartographer/common/port.h
+
+..//cartographer/common/port.h
+cinttypes
+-
+cmath
+-
+string
+-
+boost/iostreams/device/back_inserter.hpp
+-
+boost/iostreams/filter/gzip.hpp
+-
+boost/iostreams/filtering_stream.hpp
+-
+
+/home/fan/ros_slam/cartographer/cartographer/common/fixed_ratio_sampler.cc
+cartographer/common/fixed_ratio_sampler.h
+/home/fan/ros_slam/cartographer/cartographer/common/cartographer/common/fixed_ratio_sampler.h
+

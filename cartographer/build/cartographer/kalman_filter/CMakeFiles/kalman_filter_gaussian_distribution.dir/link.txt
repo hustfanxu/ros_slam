@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkalman_filter_gaussian_distribution.a  
+/usr/bin/ranlib libkalman_filter_gaussian_distribution.a

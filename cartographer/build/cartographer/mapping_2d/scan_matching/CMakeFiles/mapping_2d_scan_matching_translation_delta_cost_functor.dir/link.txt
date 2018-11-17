@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_2d_scan_matching_translation_delta_cost_functor.a  
+/usr/bin/ranlib libmapping_2d_scan_matching_translation_delta_cost_functor.a

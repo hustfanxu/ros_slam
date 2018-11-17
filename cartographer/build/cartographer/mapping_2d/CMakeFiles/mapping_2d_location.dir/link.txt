@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_2d_location.a  CMakeFiles/mapping_2d_location.dir/location.cc.o
+/usr/bin/ranlib libmapping_2d_location.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsensor_compressed_point_cloud.a  CMakeFiles/sensor_compressed_point_cloud.dir/compressed_point_cloud.cc.o
+/usr/bin/ranlib libsensor_compressed_point_cloud.a

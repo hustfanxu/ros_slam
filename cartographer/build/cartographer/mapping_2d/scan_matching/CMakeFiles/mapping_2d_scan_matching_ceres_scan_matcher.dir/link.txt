@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_2d_scan_matching_ceres_scan_matcher.a  CMakeFiles/mapping_2d_scan_matching_ceres_scan_matcher.dir/ceres_scan_matcher.cc.o
+/usr/bin/ranlib libmapping_2d_scan_matching_ceres_scan_matcher.a

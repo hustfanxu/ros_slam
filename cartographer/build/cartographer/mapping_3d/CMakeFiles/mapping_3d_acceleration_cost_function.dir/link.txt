@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_3d_acceleration_cost_function.a  
+/usr/bin/ranlib libmapping_3d_acceleration_cost_function.a

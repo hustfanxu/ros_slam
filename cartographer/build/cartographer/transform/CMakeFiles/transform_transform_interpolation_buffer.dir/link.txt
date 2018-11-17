@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtransform_transform_interpolation_buffer.a  CMakeFiles/transform_transform_interpolation_buffer.dir/transform_interpolation_buffer.cc.o
+/usr/bin/ranlib libtransform_transform_interpolation_buffer.a

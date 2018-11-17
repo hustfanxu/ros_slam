@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtransform_rigid_transform_test_helpers.a  
+/usr/bin/ranlib libtransform_rigid_transform_test_helpers.a

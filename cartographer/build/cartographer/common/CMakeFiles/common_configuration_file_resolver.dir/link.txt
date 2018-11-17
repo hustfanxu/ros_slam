@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_configuration_file_resolver.a  CMakeFiles/common_configuration_file_resolver.dir/configuration_file_resolver.cc.o
+/usr/bin/ranlib libcommon_configuration_file_resolver.a

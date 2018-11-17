@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_sparse_pose_graph.a  CMakeFiles/mapping_sparse_pose_graph.dir/sparse_pose_graph.cc.o
+/usr/bin/ranlib libmapping_sparse_pose_graph.a

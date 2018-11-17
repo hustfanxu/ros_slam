@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_3d_imu_integration.a  CMakeFiles/mapping_3d_imu_integration.dir/imu_integration.cc.o
+/usr/bin/ranlib libmapping_3d_imu_integration.a

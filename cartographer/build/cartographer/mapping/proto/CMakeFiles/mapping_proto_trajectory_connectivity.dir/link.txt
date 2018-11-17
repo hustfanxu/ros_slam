@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_proto_trajectory_connectivity.a  CMakeFiles/mapping_proto_trajectory_connectivity.dir/trajectory_connectivity.pb.cc.o
+/usr/bin/ranlib libmapping_proto_trajectory_connectivity.a

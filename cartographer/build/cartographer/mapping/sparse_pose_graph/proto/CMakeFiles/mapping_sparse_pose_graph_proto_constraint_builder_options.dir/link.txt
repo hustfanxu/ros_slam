@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapping_sparse_pose_graph_proto_constraint_builder_options.a  CMakeFiles/mapping_sparse_pose_graph_proto_constraint_builder_options.dir/constraint_builder_options.pb.cc.o
+/usr/bin/ranlib libmapping_sparse_pose_graph_proto_constraint_builder_options.a
